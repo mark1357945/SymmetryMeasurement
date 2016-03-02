@@ -1,0 +1,9 @@
+D:\荊宇泰\碩論\我的\SymmetryMeasurment\SymmetryMeasurment\SymmetryMeasurment\bin\Debug\SymmetryMeasurment.exe.config
+D:\荊宇泰\碩論\我的\SymmetryMeasurment\SymmetryMeasurment\SymmetryMeasurment\bin\Debug\SymmetryMeasurment.exe
+D:\荊宇泰\碩論\我的\SymmetryMeasurment\SymmetryMeasurment\SymmetryMeasurment\bin\Debug\SymmetryMeasurment.pdb
+D:\荊宇泰\碩論\我的\SymmetryMeasurment\SymmetryMeasurment\SymmetryMeasurment\obj\Debug\SymmetryMeasurment.csprojResolveAssemblyReference.cache
+D:\荊宇泰\碩論\我的\SymmetryMeasurment\SymmetryMeasurment\SymmetryMeasurment\obj\Debug\SymmetryMeasurment.Form1.resources
+D:\荊宇泰\碩論\我的\SymmetryMeasurment\SymmetryMeasurment\SymmetryMeasurment\obj\Debug\SymmetryMeasurment.Properties.Resources.resources
+D:\荊宇泰\碩論\我的\SymmetryMeasurment\SymmetryMeasurment\SymmetryMeasurment\obj\Debug\SymmetryMeasurment.csproj.GenerateResource.Cache
+D:\荊宇泰\碩論\我的\SymmetryMeasurment\SymmetryMeasurment\SymmetryMeasurment\obj\Debug\SymmetryMeasurment.exe
+D:\荊宇泰\碩論\我的\SymmetryMeasurment\SymmetryMeasurment\SymmetryMeasurment\obj\Debug\SymmetryMeasurment.pdb
